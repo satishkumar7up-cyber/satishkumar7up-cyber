@@ -8,7 +8,7 @@
 </h1>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=satishkumar7up&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=satishkumar7up-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <hr>
@@ -16,7 +16,7 @@
 
 
 👨🏻‍💻 **About Me**  
-✨ QA Automation Engineer & Developer | **QA Engineer** [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>  
+✨ QA Automation Engineer & Developer | **QA Engineer** [@hatch2Web]([https://www.linkedin.com/company/zucol/posts/?feedView=all](https://hatch2web.com/)) <br>  
 
 ⚡ Checkout my ✨ [Website](#) <!-- Apna Website Link daalna --> <br>  
 
@@ -30,7 +30,7 @@
 
 🥅 Strengthening: **Automation testing skills**. <br>  
 
-⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — "balance is my lifestyle."  
+⚡ Love to build both a strong **Self-Belief** and a sharper **Mind 🧠** — "balance is my lifestyle."  
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -87,8 +87,6 @@
 <hr>
 
 ## 🐍 My Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/satishkumar7up-cyber/satishkumar7up-cyber/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumar7up-cyber&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="satishkumar7up-cyber" />
 
