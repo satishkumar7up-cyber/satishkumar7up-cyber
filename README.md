@@ -90,6 +90,8 @@
 
 ![Snake animation](https://raw.githubusercontent.com/satishkumar7up/satishkumar7up/output/github-contribution-grid-snake-dark.svg)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raviranjan0&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="raviranjan0" />
+
 
 
 ## 📊 My Github Stats
