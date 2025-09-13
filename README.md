@@ -4,37 +4,72 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=600&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 </div>
-<!-- 🧑‍💻 Tech Stack -->
-<table align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey!++%F0%9F%91%8B%2C+I+am+Satish+Kumar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+am+a+QA+Automation+Engineer!%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=satishkumar7up&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
+<hr>
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="animated" width="350" align="right">
+
+
+👨🏻‍💻 **About Me**  
+✨ QA Automation Engineer & Developer | **QA Engineer** [@Zucol Group](https://www.linkedin.com/company/zucol/posts/?feedView=all) <br>  
+
+⚡ Checkout my ✨ [Website](#) <!-- Apna Website Link daalna --> <br>  
+
+📫 How to reach me: [Mail me](mailto:satishkumar7up@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/kumarsatiish/)<br>  
+
+💬 Ask me about **Automation Testing** & **Web Development**.<br>  
+
+👯 I’m looking for a role in **Automation Testing**. <br>  
+
+🥅 Currently Grinding: **Selenium, Playwright, Cypress.** <br>  
+
+🥅 Strengthening: **Automation testing skills**. <br>  
+
+⚡ Love to build both a strong **Physique 🏋** and a sharper **Mind 🧠** — "balance is my lifestyle."  
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<h3 align="left">Connect with me :</h3>
+<div align="left">
+  <a href="https://linkedin.com/in/kumarsatiish" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://instagram.com/07__satish_K" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+
+  <a href="mailto:satishkumar7up@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
+  </a>
+</div>
+
+
+<hr>
+
+<h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
+
+<!-- 🧑‍💻 Development Section -->
+<h2>💻 Development</h2>
+
+<table align="center" class="table table-dark">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
-      <br>React.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="55" height="55" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" />
-      <br>MySQL
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML5</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS3</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
   </tr>
 </table>
 
@@ -43,79 +78,46 @@
 
 <table align="center" class="table table-dark">
   <tr>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" alt="Selenium WebDriver" />
-      <br>Selenium
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" alt="JIRA" />
-      <br>JIRA
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" alt="Cypress" />
-      <br>Cypress
-    </td>
-    <td align="center" width="90">
-      <img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" alt="Playwright" />
-      <br>Playwright
-    </td>
-    <td align="center" width="90">
-      <img src="https://jestjs.io/img/opengraph.png" width="55" height="55" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/2048px-Jenkins_logo.svg.png" width="55" height="55" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="55" height="55" alt="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
+    <td align="center" width="90"><img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" /><br>Selenium</td>
+    <td align="center" width="90"><img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" /><br>Cypress</td>
+    <td align="center" width="90"><img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" /><br>Playwright</td>
+    <td align="center" width="90"><img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" /><br>JIRA</td>
+    <td align="center" width="90"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" /><br>Postman</td>
   </tr>
 </table>
 
----
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=07__satish_K&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="07__satish_K" />
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumar7up&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="activity graph" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
 
 ## 📊 My Github Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Langs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=07__satish_K&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="07__satish_K" /></p>
-
-<p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=07__satish_K&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="07__satish_K" height="200" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="Stats" height="200" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/07__satish_K">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=07__satish_K&theme=transparent" />
+  <a href="https://github.com/satishkumar7up">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishkumar7up&theme=transparent" />
   </a>
-  <a href="https://github.com/07__satish_K">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=07__satish_K&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/satishkumar7up">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishkumar7up&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/07__satish_K">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=07__satish_K&theme=transparent" />
+  <a href="https://github.com/satishkumar7up">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishkumar7up&theme=transparent" />
   </a>
 </p>
 
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/07__satish_K/07__satish_K/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/satishkumar7up/satishkumar7up/output/github-contribution-grid-snake-dark.svg)
 
----
-
-## 📫 Connect With Me
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumar7up@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarsatiish/)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/07__satish_k)  
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/07__satish_K)
-
+<img src="https://img.shields.io/github/followers/satishkumar7up.svg?style=social&label=Follow"/>
