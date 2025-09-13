@@ -17,33 +17,21 @@
         
 ### 👨🏻‍💻 About Me  
 
-✨ QA Automation Engineer & Developer | QA Engineer @Zucol Group  
-
-⚡ Checkout my ✨ [Website](https://your-website-link.com)  
+✨ QA Automation Engineer & Developer | QA Engineer @hatch2Web   
 
 📫 How to reach me:  
-- 📧 Mail me at **your-email@example.com**  
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/your-link)  
+- 📧 Mail me at [mail](satishkumar7up@gmail.com)  
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kumarsatiish/)
 
 💬 Ask me about:  
-- Automation Testing (Selenium | Playwright | Cypress)  
+- Automation Testing 
 - Web Development  
 
-👯 I’m looking for a role in **Automation Testing**  
-
-🥅 Currently Grinding: **Selenium, Playwright, Cypress**  
+👯 I’m looking for a role in **Automation Testing**   
 🥅 Strengthening: **Automation Testing Skills**  
 
-⚡ Love to build both a strong **Physique 🏋️** and a sharper **Mind 🧠** —  
+⚡ Love to build both a strong **Belief 🏋️** and a sharper **Mind 🧠** —  
 *"Balance is my lifestyle."*  
-
-      </td>
-
-      <!-- Right Side -->
-      <td width="40%" valign="top">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="100%">
-      </td>
-    </tr>
   </table>
 </div>
 
