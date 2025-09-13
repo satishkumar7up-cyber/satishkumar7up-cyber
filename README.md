@@ -4,10 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=600&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 </div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey!++%F0%9F%91%8B%2C+I+am+Satish+Kumar+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;I+am+a+QA+Automation+Engineer!%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+
 </h1>
 
 <p align="left"> 
