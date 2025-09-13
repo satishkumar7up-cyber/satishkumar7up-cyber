@@ -1,4 +1,3 @@
-
 <img src="https://github.com/satishkumar7up-cyber/satishkumar7up-cyber/blob/main/banner%20(1).jpg" alt="GitHub Banner" width="100%" />
 
 <div align="center">
@@ -14,7 +13,7 @@
 
 
 <hr>
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="animated" width="350" align="right">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="animated" width="450" align="right">
 
 
 👨🏻‍💻 **About Me**  
