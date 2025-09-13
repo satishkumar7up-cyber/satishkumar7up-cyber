@@ -91,7 +91,36 @@
 ![Snake animation](https://raw.githubusercontent.com/satishkumar7up/satishkumar7up/output/github-contribution-grid-snake-dark.svg)
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+name: Generate Contribution Snake
+
+on:
+  schedule: # har din raat 12 baje run hoga
+    - cron: "0 0 * * *"
+  workflow_dispatch: # manually bhi run kar sakte ho
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 ## 📊 My Github Stats
