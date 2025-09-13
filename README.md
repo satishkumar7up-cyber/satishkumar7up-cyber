@@ -20,8 +20,10 @@
 ✨ QA Automation Engineer & Developer | QA Engineer @hatch2Web   
 
 📫 How to reach me:  
-- [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumar7up@gmail.com)   
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/kumarsatiish/)
+- [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumar7up@gmail.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarsatiish/)   
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/07__satish_K)  
+
 
 💬 Ask me about:  
 - Automation Testing 
