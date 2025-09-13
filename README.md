@@ -119,3 +119,6 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://img.shields.io/github/followers/satishkumar7up-cyber.svg?style=social&label=Follow"/>
+
+[Satish Kumar](https://www.linkedin.com/in/satishkumar/)  
+
