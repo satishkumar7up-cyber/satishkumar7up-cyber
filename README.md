@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=600&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer)](https://git.io/typing-svg)
 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan0&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan0" alt="raviranjan0" /></a> </p>
 
 </h1>
 
