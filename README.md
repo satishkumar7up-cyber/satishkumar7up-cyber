@@ -5,7 +5,7 @@
       <td width="60%">
         
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=435&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer+%7C%26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=435&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+%7C%26)](https://git.io/typing-svg)
 
 ---
 
