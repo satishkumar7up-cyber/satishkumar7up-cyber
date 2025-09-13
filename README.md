@@ -2,7 +2,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="60%">
+      <td width="100%">
         
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=435&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer+%7C%26)](https://git.io/typing-svg)
@@ -17,7 +17,7 @@
         
 ### 👨🏻‍💻 About Me  
 
-✨ QA Automation Engineer & Developer | QA Engineer @hatch2Web   
+✨ QA Automation Engineer & Developer | QA Engineer
 
 📫 How to reach me:  
 - [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satishkumar7up@gmail.com)
