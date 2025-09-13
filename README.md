@@ -17,7 +17,7 @@
 
 
 👨🏻‍💻 **About Me**  
-✨ QA Automation Engineer & Developer | **QA Engineer** [@hatch2Web]([https://www.linkedin.com/company/zucol/posts/?feedView=all](https://hatch2web.com/)) <br>  
+✨ QA Automation Engineer & Developer | **QA Engineer** [hatch2Web](https://hatch2web.com/) <br>  
 
 ⚡ Checkout my ✨ [Website](#) <!-- Apna Website Link daalna --> <br>  
 
