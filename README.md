@@ -6,7 +6,7 @@
 
 
 </div>
-<hr>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishkumar7up-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="satishkumar7up-cyber" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishkumar7up-cyber" alt="satishkumar7up-cyber" /></a> </p>
