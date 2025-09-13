@@ -120,5 +120,3 @@
 
 <img src="https://img.shields.io/github/followers/satishkumar7up-cyber.svg?style=social&label=Follow"/>
 
-[Satish Kumar](https://www.linkedin.com/in/satishkumar/)  
-
