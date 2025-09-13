@@ -88,36 +88,36 @@
 
 ## 🐍 My Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/satishkumar7up/satishkumar7up/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/satishkumar7up-cyber/satishkumar7up-cyber/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumar7up-cyber&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="satishkumar" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumar7up-cyber&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="satishkumar7up-cyber" />
 
 
 
 ## 📊 My Github Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="Stats" height="200" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/satishkumar7up">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishkumar7up&theme=transparent" />
+  <a href="https://github.com/satishkumar7up-cyber">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishkumar7up-cyber&theme=transparent" />
   </a>
-  <a href="https://github.com/satishkumar7up">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishkumar7up&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/satishkumar7up-cyber">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishkumar7up-cyber&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/satishkumar7up">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishkumar7up&theme=transparent" />
+  <a href="https://github.com/satishkumar7up-cyber">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishkumar7up-cyber&theme=transparent" />
   </a>
 </p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/satishkumar7up/satishkumar7up/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/satishkumar7up-cyber/satishkumar7up-cyber/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://img.shields.io/github/followers/satishkumar7up.svg?style=social&label=Follow"/>
+<img src="https://img.shields.io/github/followers/satishkumar7up-cyber.svg?style=social&label=Follow"/>
