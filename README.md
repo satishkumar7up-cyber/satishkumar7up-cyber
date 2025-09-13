@@ -13,7 +13,7 @@
 
 
 <hr>
-  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="animated" width="650" align="right">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="animated" width="350" align="right">
 
 
 👨🏻‍💻 **About Me**  
