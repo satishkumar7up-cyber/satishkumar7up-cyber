@@ -59,6 +59,8 @@
 
 <h1><img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Tools & Technology </h1>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <!-- 🧑‍💻 Development Section -->
 <h2>💻 Development</h2>
 
@@ -93,6 +95,9 @@
 
 
 ## 📊 My Github Stats
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Langs" />
 </p>
