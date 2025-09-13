@@ -85,9 +85,6 @@
 </table>
 
 
-<hr>
-
-## 🐍 My Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishkumar7up-cyber&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="satishkumar7up-cyber" />
 
