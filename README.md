@@ -4,6 +4,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F79C&width=600&lines=Hi+👋,+I'm+Satish+Kumar+QA+Automation+Engineer)](https://git.io/typing-svg)
 
+<hr>
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satishkumar7up-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="satishkumar7up-cyber" /> </p>
 
