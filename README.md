@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <table width="100%">
+  <table width="200%">
     <tr>
       <!-- Left Side -->
       <td width="65%" valign="top">
