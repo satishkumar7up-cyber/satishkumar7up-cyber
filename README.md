@@ -74,7 +74,7 @@
 </table>
 
 <!-- 🧪 Testing Section -->
-<h2>🧪 Testing</h2>
+<h2>🧪 Testing Skill</h2>
 
 <table align="center" class="table table-dark">
   <tr>
