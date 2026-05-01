@@ -1,4 +1,3 @@
-<img src="https://github.com/satishkumar7up-cyber/satishkumar7up-cyber/blob/main/banner%20(1).jpg" alt="GitHub Banner" width="100%" />
 
 <div align="center">
   
