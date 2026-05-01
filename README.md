@@ -19,17 +19,17 @@
 
 
 👨🏻‍💻 **About Me**  
-✨ QA Automation Engineer & Developer | **QA Engineer** [hatch2Web](https://hatch2web.com/) <br>  
+✨ QA Automation Engineer | **QA Engineer** <br>  
 
 ⚡ Checkout my ✨ [Website](#) <!-- Apna Website Link daalna --> <br>  
 
 📫 How to reach me: [Mail me](mailto:satishkumar7up@gmail.com) or Connect [LinkedIn](https://www.linkedin.com/in/kumarsatiish/)<br>  
 
-💬 Ask me about **Automation Testing** & **Web Development**.<br>  
+💬 Ask me about **Automation Testing** & <br>  
 
 👯 I’m looking for a role in **Automation Testing**. <br>  
 
-🥅 Currently Grinding: **Selenium, Playwright, Cypress.** <br>  
+🥅 Currently Grinding: **Selenium** <br>  
 
 🥅 Strengthening: **Automation testing skills**. <br>  
 
