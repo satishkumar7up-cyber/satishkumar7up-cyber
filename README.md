@@ -105,6 +105,7 @@
 ## 📊 My Github Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&layout=compact&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&theme=tokyonight" height="180"/>
 </p>
