@@ -87,8 +87,8 @@
 <table align="center" class="table table-dark">
   <tr>
     <td align="center" width="90"><img src="https://img.icons8.com/color/96/selenium-test-automation.png" width="55" height="55" /><br>Selenium</td>
-    <td align="center" width="90"><img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" /><br>Cypress</td>
-    <td align="center" width="90"><img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" /><br>Playwright</td>
+    <!-- <td align="center" width="90"><img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.png" width="55" height="55" /><br>Cypress</td> -->
+    <!-- <td align="center" width="90"><img src="https://playwright.dev/img/playwright-logo.svg" width="55" height="55" /><br>Playwright</td> -->
     <td align="center" width="90"><img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" /><br>JIRA</td>
     <td align="center" width="90"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" /><br>Postman</td>
   </tr>
