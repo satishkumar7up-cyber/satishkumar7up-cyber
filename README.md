@@ -64,17 +64,47 @@
 
 <table align="center" class="table table-dark">
   <tr>
-    <img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>
-  Java
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML5</td>
+    <!-- Java -->
     <td align="center" width="90">
-  
-</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS3</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>
+      Java
+    </td>
+
+    <!-- HTML -->
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>
+      HTML5
+    </td>
+
+    <!-- CSS -->
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>
+      CSS3
+    </td>
+
+    <!-- बाकी commented -->
+    <!--
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>
+      JavaScript
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>
+      Python
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>
+      React.js
+    </td>
+
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>
+      Node.js
+    </td>
+    -->
+    
   </tr>
 </table>
 
