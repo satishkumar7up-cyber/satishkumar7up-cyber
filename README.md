@@ -92,6 +92,8 @@
     <td align="center" width="90"><img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" /><br>JIRA</td>
     <td align="center" width="90"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="55" height="55" /><br>Postman</td>
         <td align="center" width="90"><img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" /><br>JENKIS</td>
+                <td align="center" width="90"><img src="https://img.icons8.com/ios-filled/100/0052CC/jira.png" width="55" height="55" /><br>GITHUBACTION</td>
+
 
   </tr>
 </table>
