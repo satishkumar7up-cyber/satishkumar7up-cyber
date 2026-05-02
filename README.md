@@ -65,6 +65,10 @@
 <table align="center" class="table table-dark">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML5</td>
+    <td align="center" width="90">
+  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>
+  Java
+</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS3</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
