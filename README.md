@@ -105,11 +105,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
