@@ -104,24 +104,24 @@
 
 ## 📊 My Github Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="Stats" height="200" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satishkumar7up-cyber&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/satishkumar7up-cyber">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishkumar7up-cyber&theme=transparent" />
-  </a>
-  <a href="https://github.com/satishkumar7up-cyber">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishkumar7up-cyber&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/satishkumar7up-cyber">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishkumar7up-cyber&theme=transparent" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=satishkumar7up-cyber&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishkumar7up-cyber&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishkumar7up-cyber&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishkumar7up-cyber&theme=transparent" />
 </p>
 
 
