@@ -79,7 +79,7 @@
 </td>
 <td align="center" width="90">
   <img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>
-  python
+  Python
 </td>
     
   </tr>
